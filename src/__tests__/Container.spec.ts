@@ -1,3 +1,5 @@
+// noinspection JSUnusedLocalSymbols
+
 import { Container } from "../Container";
 import { NotFoundException } from "../errors/NotFoundException";
 import { singleton } from "../decorators/singleton";

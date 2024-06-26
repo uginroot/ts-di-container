@@ -1,3 +1,5 @@
+// noinspection JSUnusedLocalSymbols
+
 import { getClassConstructorArgumentNames } from "../utils/getClassConstructorArgumentNames";
 import { AbstractClass } from "../types/AbstractClass";
 import { ClassConstructor } from "../types/ClassConstructor";

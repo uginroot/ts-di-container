@@ -1,3 +1,5 @@
+// noinspection JSUnusedLocalSymbols
+
 import { makeClassDecorator } from "../utils/makeClassDecorator";
 import { metadataMap } from "../global-variables/metadataMap";
 import { Metadata } from "../types/Metadata";

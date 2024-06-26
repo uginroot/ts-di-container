@@ -1,3 +1,5 @@
+// noinspection JSUnusedLocalSymbols
+
 import { inject } from "../decorators/inject";
 import { metadataMap } from "../global-variables/metadataMap";
 import { Metadata } from "../types/Metadata";
