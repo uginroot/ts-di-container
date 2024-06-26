@@ -1,0 +1,1 @@
+{"version":3,"file":"ContainerInterface.d.ts","sourceRoot":"","sources":["../src/ContainerInterface.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,aAAa,CAAC;AAElC,8BAAsB,kBAAkB;aACpB,GAAG,CAAC,CAAC,EAAE,GAAG,EAAE,GAAG,CAAC,CAAC,CAAC,GAAG,CAAC;aACtB,GAAG,CAAC,CAAC,EAAE,GAAG,EAAE,GAAG,CAAC,CAAC,CAAC,GAAG,OAAO;CAC/C"}

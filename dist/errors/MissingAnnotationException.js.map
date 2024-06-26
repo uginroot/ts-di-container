@@ -1,0 +1,1 @@
+{"version":3,"file":"MissingAnnotationException.js","sourceRoot":"","sources":["../../src/errors/MissingAnnotationException.ts"],"names":[],"mappings":";;;AAAA,6DAA0D;AAE1D,MAAa,0BAA2B,SAAQ,uCAAkB;IAC9D,YAAmB,GAAW;QAC1B,KAAK,CACD,gCAAgC;YAC5B,cAAc,GAAG,0DAA0D,CAClF,CAAC;QACF,IAAI,CAAC,IAAI,GAAG,0BAA0B,CAAC,SAAS,CAAC,IAAI,CAAC;IAC1D,CAAC;CACJ;AARD,gEAQC"}

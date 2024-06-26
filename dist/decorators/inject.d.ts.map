@@ -1,0 +1,1 @@
+{"version":3,"file":"inject.d.ts","sourceRoot":"","sources":["../../src/decorators/inject.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,cAAc,CAAC;AAMnC,wBAAgB,MAAM,CAAC,GAAG,EAAE,GAAG,CAAC,GAAG,CAAC,YACP,GAAG,eAAe,MAAM,GAAG,MAAM,kBAAkB,MAAM,UAWrF"}

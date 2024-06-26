@@ -1,0 +1,1 @@
+{"version":3,"file":"MissingAnnotationException.d.ts","sourceRoot":"","sources":["../../src/errors/MissingAnnotationException.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,sBAAsB,CAAC;AAE1D,qBAAa,0BAA2B,SAAQ,kBAAkB;gBAC3C,GAAG,EAAE,MAAM;CAOjC"}

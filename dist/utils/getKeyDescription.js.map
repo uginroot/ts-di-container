@@ -1,0 +1,1 @@
+{"version":3,"file":"getKeyDescription.js","sourceRoot":"","sources":["../../src/utils/getKeyDescription.ts"],"names":[],"mappings":";;;AAEA,SAAgB,iBAAiB,CAAC,GAAa;IAC3C,IAAI,OAAO,GAAG,KAAK,QAAQ,EAAE;QACzB,IAAI,GAAG,CAAC,WAAW,EAAE;YACjB,OAAO,UAAU,GAAG,CAAC,WAAW,GAAG,CAAC;SACvC;QACD,OAAO,UAAU,CAAC;KACrB;IACD,OAAO,GAAG,CAAC,SAAS,CAAC,WAAW,CAAC,IAAI,CAAC;AAC1C,CAAC;AARD,8CAQC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ExpectedClassException.js","sourceRoot":"","sources":["../../src/errors/ExpectedClassException.ts"],"names":[],"mappings":";;;AAAA,6DAA0D;AAE1D,MAAa,sBAAuB,SAAQ,uCAAkB;IAC1D,YAAY,MAAW;QACnB,KAAK,CAAC,kBAAkB,EAAE,EAAE,MAAM,EAAE,CAAC,CAAC;QACtC,IAAI,CAAC,IAAI,GAAG,wBAAwB,CAAC;IACzC,CAAC;CACJ;AALD,wDAKC"}
