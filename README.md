@@ -1,18 +1,11 @@
 # ts-di-container
 
-[![Build Status](https://travis-ci.com/uginroot/ts-di-container.svg?branch=master)](https://travis-ci.com/alexeykhr/ts-di-container)
-[![Coverage Status](https://coveralls.io/repos/github/uginroot/ts-di-container/badge.svg?branch=master)](https://coveralls.io/github/uginroot/ts-di-container?branch=master)
-[![npm version](https://badge.fury.io/js/ts-di-container.svg)](https://badge.fury.io/js/ts-di-container)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Description
-
 This package provides a DI (Dependency Injection) container for TypeScript. It includes functions for automatically injecting dependencies into classes, decorators for automatically injecting classes, and dependency injection.
 
 ## Installation
 
 ```bash
-npm install ts-di-container
+npm i @uginroot/ts-di-container
 ```
 
 ## Use
