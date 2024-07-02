@@ -15,7 +15,7 @@ npm i @uginroot/ts-di-container
 The `Container` class represents a DI container. It provides methods for registering and retrieving dependencies. These methods are divided into two interfaces, `ContainerInterface` and `ContainerSetterInterface`. These interfaces are automatically registered with the container when it is created.
 
 ```ts
-import {Container, singleton, factory, makeToken, inject} from 'ts-di-container';
+import {Container, singleton, factory, makeToken, inject} from '@uginroot/ts-di-container';
 
 const container = new Container();
 
@@ -77,7 +77,7 @@ console.log(container.get(AutoWare).str === container.get(TOKEN));   // true
 ### ChildContainer
 
 ```ts
-import { Container } from 'ts-di-container';
+import { Container } from '@uginroot/ts-di-container';
 
 class TestParent {}
 class TestChild {}
@@ -146,7 +146,7 @@ export class AnyClass implements AnyClassInterface {
 ```
 ```ts
 // ./di-tokens.ts
-import { makeToken, Token } from 'ts-di-container';
+import { makeToken, Token } from '@uginroot/ts-di-container';
 
 export const SETTING1 = makeToken<string>("setting1");
 export const SETTING2 = Symbol("setting2") as Token<string>; // alternative
@@ -184,7 +184,7 @@ const anyClass = container.get(AnyClassInterface);
 
 ```ts
 // ./Dependency.ts
-import { singleton } from 'ts-di-container';
+import { singleton } from '@uginroot/ts-di-container';
 
 abstract class DependencyInterface {}
 @singleton()
@@ -209,7 +209,7 @@ class AnyClass implements AnyClassInterface {
 
 ```ts
 // ./di-tokens.ts
-import { makeToken, Token } from 'ts-di-container';
+import { makeToken, Token } from '@uginroot/ts-di-container';
 
 const SETTING1 = makeToken<string>("setting1");
 const SETTING2 = Symbol("setting2") as Token<string>; // alternative
@@ -217,7 +217,7 @@ const SETTING2 = Symbol("setting2") as Token<string>; // alternative
 
 ```ts
 // ./main.ts
-import { Container } from 'ts-di-container';
+import { Container } from '@uginroot/ts-di-container';
 import { DependencyInterface, Dependency } from './Dependency';
 import { AnyClassInterface, AnyClass } from './AnyClass';
 import { SETTING1, SETTING2 } from './di-tokens';
